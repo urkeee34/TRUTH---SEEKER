@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header, .content, .footer {
+    padding: 10px;
+}
+
+.menu_nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu_nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.menu_nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+}
+
+.infopost img {
+    width: 100%;
+    height: auto;
+}
+
+.sidebar .gadget {
+    margin-top: 20px;
+}
+
+.info {
+    font-size: 16px;
+    color: red;
+}
